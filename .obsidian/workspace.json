@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "9376fd12b7fe4324",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7dab90943552c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6751a495caf824c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edaab679e2172dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bb0108d523f18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3356a4e7509d395f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbb331492ea83128",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f43e4c3831f9b732",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "b0fd255c3b68a1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f33e7b9e52caaac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572e45613c0f0f3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0799b50f9f8521a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64a3f391420d4c4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1202ec592fb8d10d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "a6751a495caf824c",
+  "lastOpenFiles": [
+    "publish-backup.css",
+    "publish - Copy.css",
+    "second brain.md",
+    "Home.md",
+    "David Di-Benedetto.md",
+    "Web Development/Planr/Planr Purpose.md",
+    "00 The Archives Branding/Favicons/apple-touch-icon.png",
+    "00 The Archives Branding/Favicons/android-chrome-512x512.png",
+    "00 The Archives Branding/Favicons/android-chrome-192x192.png",
+    "00 The Archives Branding/Favicons/favicon-16x16.png",
+    "Home-2.md",
+    "00 Home 1.md",
+    "Web Development/TaleForge/TaleForge Purpose.md",
+    "Web Development/TaleForge",
+    "Web Development/Planr",
+    "Web Development",
+    "digital garden.md",
+    "example folder/example note.md",
+    "00 The Archives Branding/The Archives Header.png",
+    "00 The Archives Branding/Favicons/site.webmanifest",
+    "00 The Archives Branding/Favicons/favicon.ico",
+    "00 The Archives Branding/Favicons/favicon-32x32.png",
+    "00 The Archives Branding/Favicons",
+    "00 The Archives Branding",
+    "00 The Archives Branding/The Archives Title.png",
+    "The Archives Title.png.~tmp",
+    "New folder",
+    "example folder/digital garden.md",
+    "The Archives Header (1).png",
+    "The Archives Vintage.png",
+    "The Archives.png",
+    "The Archives.md"
+  ]
+}

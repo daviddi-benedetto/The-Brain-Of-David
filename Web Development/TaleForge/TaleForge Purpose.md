@@ -1,0 +1,3 @@
+# TaleForge Purpose
+
+TaleForge is...
