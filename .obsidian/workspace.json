@@ -11,15 +11,26 @@
             "id": "a6751a495caf824c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Planr/Branding/Planr Small Logo.png"
+              }
+            }
+          },
+          {
+            "id": "84004fe0e3c9215e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Planr/Planr Mockups.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Planr/Planr Mockups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Planr/Planr Mockups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Planr/Planr Mockups.md"
               }
             }
           }
@@ -147,39 +158,40 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a6751a495caf824c",
+  "active": "84004fe0e3c9215e",
   "lastOpenFiles": [
+    "Planr/Branding/Planr Full Logo.png",
+    "Planr/Branding/Planr Small Logo.png",
+    "Planr/Planr Overview.md",
+    "Home.md",
+    "Planr/Branding",
+    "TaleForge/Mockups",
+    "Planr/Planr Mockups.md",
+    "Planr/Mockups",
+    "Planr/Planr Branding.md",
+    "Planr/Planr Branding/rePlanner Logo.png",
+    "Planr/Planr Branding",
+    "David Di-Benedetto.md",
     "publish-backup.css",
     "publish - Copy.css",
     "second brain.md",
-    "Home.md",
-    "David Di-Benedetto.md",
-    "Web Development/Planr/Planr Purpose.md",
     "00 The Archives Branding/Favicons/apple-touch-icon.png",
     "00 The Archives Branding/Favicons/android-chrome-512x512.png",
     "00 The Archives Branding/Favicons/android-chrome-192x192.png",
     "00 The Archives Branding/Favicons/favicon-16x16.png",
     "Home-2.md",
     "00 Home 1.md",
-    "Web Development/TaleForge/TaleForge Purpose.md",
-    "Web Development/TaleForge",
-    "Web Development/Planr",
+    "TaleForge/TaleForge Purpose.md",
+    "TaleForge",
+    "Planr",
     "Web Development",
     "digital garden.md",
     "example folder/example note.md",
     "00 The Archives Branding/The Archives Header.png",
     "00 The Archives Branding/Favicons/site.webmanifest",
-    "00 The Archives Branding/Favicons/favicon.ico",
     "00 The Archives Branding/Favicons/favicon-32x32.png",
-    "00 The Archives Branding/Favicons",
-    "00 The Archives Branding",
     "00 The Archives Branding/The Archives Title.png",
-    "The Archives Title.png.~tmp",
-    "New folder",
     "example folder/digital garden.md",
-    "The Archives Header (1).png",
-    "The Archives Vintage.png",
-    "The Archives.png",
     "The Archives.md"
   ]
 }

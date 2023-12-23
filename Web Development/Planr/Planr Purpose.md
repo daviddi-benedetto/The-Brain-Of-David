@@ -1,3 +1,0 @@
-# Planr - Purpose
-
-Planr is a ...
