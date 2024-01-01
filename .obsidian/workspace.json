@@ -23,14 +23,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planr/Planr Mockups.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94395b36fbe240ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b2fdeedef5152e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/One At A Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04fb25a182fe5ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planr/Functions/addNewTask.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1512af7f691c1241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3afa963db66c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Files Over Apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planr/Planr Mockups.md",
+                "file": "General/Files Over Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planr/Planr Mockups.md",
+                "file": "General/Files Over Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planr/Planr Mockups.md"
+                "file": "General/Files Over Apps.md"
               }
             }
           }
@@ -158,17 +218,33 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "84004fe0e3c9215e",
+  "active": "6d3afa963db66c88",
   "lastOpenFiles": [
-    "Planr/Branding/Planr Full Logo.png",
-    "Planr/Branding/Planr Small Logo.png",
-    "Planr/Planr Overview.md",
+    "About.md",
+    "Projects Roadmap.md",
+    "00 The Archives Branding/Publish.css.md",
     "Home.md",
+    "General/Files Over Apps.md",
+    "Planr/Planr Overview.md",
+    "Planr/Functions/HTMLImport.js.md",
+    "Planr/Functions/Function Logic.md",
+    "Planr/Functions/deleteTask.js.md",
+    "Planr/Functions/addNewTask.js.md",
+    "Planr/Functions/Update Pictures/master-flowchart-12-24-23.jpg",
+    "Planr/Planr Branding.md",
+    "Planr/Functions/Update Pictures",
+    "Planr/Planr Updates.md",
+    "Planr/Update Pictures/12-23-23 Planr Mockup.png",
+    "Planr/Functions",
+    "General/Ideas List.md",
+    "General/One At A Time.md",
+    "General",
+    "Planr/Branding/Planr Small Logo.png",
+    "Planr/Mockups/Untitled",
+    "Planr/Branding/Planr Full Logo.png",
     "Planr/Branding",
     "TaleForge/Mockups",
-    "Planr/Planr Mockups.md",
-    "Planr/Mockups",
-    "Planr/Planr Branding.md",
+    "Planr/Update Pictures",
     "Planr/Planr Branding/rePlanner Logo.png",
     "Planr/Planr Branding",
     "David Di-Benedetto.md",
@@ -182,15 +258,9 @@
     "Home-2.md",
     "00 Home 1.md",
     "TaleForge/TaleForge Purpose.md",
-    "TaleForge",
-    "Planr",
-    "Web Development",
     "digital garden.md",
     "example folder/example note.md",
     "00 The Archives Branding/The Archives Header.png",
-    "00 The Archives Branding/Favicons/site.webmanifest",
-    "00 The Archives Branding/Favicons/favicon-32x32.png",
-    "00 The Archives Branding/The Archives Title.png",
     "example folder/digital garden.md",
     "The Archives.md"
   ]

@@ -5,7 +5,7 @@ Planr is an app with two purposes:
 1. To streamline my focus into a planner perfectly customized for my usage
 2. To strengthen my skills in HTML, CSS, and JavaScript
 
-I like this two-birds-one-stone approach. I'm always looking for ways to increase my productivity, so this project is a good fit for
+I like this two-birds-one-stone approach. I'm always looking for ways to increase my productivity, so this project feels like a good fit.
 ## Initial Ideas
 The current idea is to have the app consist of four main sections
 1. The header
@@ -19,4 +19,4 @@ I'm building this app with myself as the target audience, and similar to my reas
 
 For further reading about *Planr*, see:
 - [[Planr Branding]]
-- [[Planr Mockups]]
+- [[Planr Updates]]
