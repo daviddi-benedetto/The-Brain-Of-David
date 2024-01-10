@@ -30,25 +30,48 @@ Inside the task-container.html there is a div element with a class of "task-list
 ### Code
 
 ```js
+//  ______   ______     ______     __  __     ______
+// /\__  _\ /\  __ \   /\  ___\   /\ \/ /    /\  ___\
+// \/_/\ \/ \ \  __ \  \ \___  \  \ \  _"-.  \ \___  \
+//    \ \_\  \ \_\ \_\  \/\_____\  \ \_\ \_\  \/\_____\
+//     \/_/   \/_/\/_/   \/_____/   \/_/\/_/   \/_____/
+//
+
+// Get the plus button and assign it to a variable
+const addNewTaskButton = document.querySelector(".plus-header");
+// ADD NEW TASK FUNCTION
 function addNewTask() {
-    // Create taskDiv, then give it class of "task"
+    // Make a new div for the task and give it a class
     const taskDiv = document.createElement("div");
-    taskDiv.setAttribute("class", "task");
-    
+    taskDiv.className = "task";
 
-    // Put html into a variable called taskHTML
-    // Then says the inside HTML content of the taskDiv is whats inside the taskHTML variable
-    const taskHTML = `
-    <i class="fa-regular fa-circle task-icon-incomplete"></i>
-    <div class="task-text" contenteditable="true"></div>
-    <i id="task-delete" class="fa-solid fa-xmark" onclick="deleteTask()"></i>
+    // Set the HTML content for the new task
+    taskDiv.innerHTML = `
+        <i class="fa-regular fa-circle task-icon-incomplete"></i>
+        <div class="task-text" contenteditable="true"></div>
+        <i class="fa-solid fa-xmark"></i>
     `;
-    taskDiv.innerHTML=taskHTML;
 
-    // Finds the div with the id "task-list" and creates a variable for it
-    const taskListDiv = document.getElementById("task-list");
-    taskListDiv.append(taskDiv);
-}
+    // Append the new task to the task list
+    document.getElementById("task-list").appendChild(taskDiv);
+
+    // Add event listener to the delete button of the new task and make it remove its own div when clicked
+    taskDiv.querySelector(".fa-xmark").addEventListener("click", function() {
+        this.parentElement.remove();
+    });
+
+
+    // Add event listener to stop enter key making text box larger
+    taskDiv.querySelector(".task-text").addEventListener("keypress", e => {
+        if (e.key === "Enter") {
+            e.preventDefault(); // This prevents the enter key from making a new line
+        }
+    });
+} 
+
+// Event listener for adding a new task on click
+
+addNewTaskButton.addEventListener("click", addNewTask);
 ```
 
 To remove a task, see [[deleteTask.js]]

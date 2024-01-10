@@ -1,7 +1,7 @@
 {
-  "accentColor": "#dba864",
+  "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Typomagical",
+  "cssTheme": "Things",
   "nativeMenus": false,
   "translucency": false,
   "baseFontSize": 16

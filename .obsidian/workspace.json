@@ -8,89 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6751a495caf824c",
+            "id": "461d104ebdeca07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Branding/The Archives/Publish.css (The Archives).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e3a3d10cfb28c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29921cc6af95e453",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Planr/Branding/Planr Small Logo.png"
-              }
-            }
-          },
-          {
-            "id": "84004fe0e3c9215e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94395b36fbe240ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10b2fdeedef5152e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/One At A Time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04fb25a182fe5ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planr/Functions/addNewTask.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1512af7f691c1241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3afa963db66c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Files Over Apps.md",
-                "mode": "source",
-                "source": false
+                "file": "00 Branding/The Brain/The Brain Header.png"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Files Over Apps.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Files Over Apps.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Files Over Apps.md"
+                "file": "Home.md"
               }
             }
           }
@@ -204,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 274.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -218,50 +170,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6d3afa963db66c88",
+  "active": "a7e3a3d10cfb28c0",
   "lastOpenFiles": [
+    "00 Branding/The Archives Title.png",
+    "00 Branding/The Archives Header.png",
     "About.md",
-    "Projects Roadmap.md",
-    "00 The Archives Branding/Publish.css.md",
+    "00 Branding/The Archives/Publish.css (The Archives).md",
+    "00 Branding/The Brain/Publish.css (The Brain).md",
+    "00 Branding/The Archives/The Archives Header With Background.png",
+    "00 Branding/The Archives/The Archives Title.png",
     "Home.md",
-    "General/Files Over Apps.md",
+    "Quadruped Robot/Project Proposal.md",
     "Planr/Planr Overview.md",
-    "Planr/Functions/HTMLImport.js.md",
+    "Planr/Planr Branding.md",
+    "Quadruped Robot/ME 377K Form.pdf",
+    "Planr/Planr Updates.md",
     "Planr/Functions/Function Logic.md",
-    "Planr/Functions/deleteTask.js.md",
+    "Planr/Functions/addNewTaskContainer.js.md",
     "Planr/Functions/addNewTask.js.md",
     "Planr/Functions/Update Pictures/master-flowchart-12-24-23.jpg",
-    "Planr/Planr Branding.md",
-    "Planr/Functions/Update Pictures",
-    "Planr/Planr Updates.md",
-    "Planr/Update Pictures/12-23-23 Planr Mockup.png",
-    "Planr/Functions",
-    "General/Ideas List.md",
-    "General/One At A Time.md",
-    "General",
     "Planr/Branding/Planr Small Logo.png",
-    "Planr/Mockups/Untitled",
     "Planr/Branding/Planr Full Logo.png",
-    "Planr/Branding",
-    "TaleForge/Mockups",
-    "Planr/Update Pictures",
-    "Planr/Planr Branding/rePlanner Logo.png",
-    "Planr/Planr Branding",
-    "David Di-Benedetto.md",
-    "publish-backup.css",
-    "publish - Copy.css",
-    "second brain.md",
-    "00 The Archives Branding/Favicons/apple-touch-icon.png",
-    "00 The Archives Branding/Favicons/android-chrome-512x512.png",
-    "00 The Archives Branding/Favicons/android-chrome-192x192.png",
-    "00 The Archives Branding/Favicons/favicon-16x16.png",
-    "Home-2.md",
-    "00 Home 1.md",
+    "Notes/Web Development/Creating An App With Electron.md",
+    "Notes/Materials Selection/Titanium.md",
+    "Notes/Materials Selection/Steel.md",
+    "Notes/Materials Selection/PLA vs. PETG.md",
+    "Notes/Materials Selection/Aluminum.md",
+    "Thoughts/Standard Applications.md",
+    "Thoughts/Ideas List.md",
+    "Thoughts/Files Over Apps.md",
+    "00 Branding/The Archives/The Archives Header.png",
+    "00 Branding/The Brain/The Brain Header.png",
+    "00 Branding/The Archives/The Archives Header.png",
+    "00 Branding/The Brain/Favicons/android-chrome-192x192.png",
+    "00 Branding/The Brain/Favicons/favicon.ico",
+    "publish.css",
+    "theme.css",
+    "publish-archives-backup.css",
+    "00 Branding/The Brain/Favicons",
+    "00 Branding/The Brain",
+    "00 Branding/The Archives",
+    "Quadruped Robot",
+    "Projects Roadmap.md",
+    "Bronco",
     "TaleForge/TaleForge Purpose.md",
-    "digital garden.md",
-    "example folder/example note.md",
-    "00 The Archives Branding/The Archives Header.png",
-    "example folder/digital garden.md",
-    "The Archives.md"
+    "Untitled.canvas",
+    "General/One At A Time.md",
+    "Planr/Functions/HTMLImport.js.md",
+    "Planr/Functions/deleteTask.js.md"
   ]
 }

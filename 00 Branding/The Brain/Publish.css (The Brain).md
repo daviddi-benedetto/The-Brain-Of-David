@@ -1,3 +1,7 @@
+## Publish.css
+*The Brain of David Di-Benedetto* uses the *Things* theme with some modifications. Code below.
+
+```css
 /*───────────────────────────────────────────────────────
 THINGS
 Version 2.1.19
@@ -1615,3 +1619,5 @@ community:
 - obsidian-system-dark-mode
 - obsidian-style-settings
 */
+
+```
