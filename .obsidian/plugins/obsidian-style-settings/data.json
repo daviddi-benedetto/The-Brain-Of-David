@@ -9,5 +9,7 @@
   "obsidian-prism-theme@@pt-font-alt-g": false,
   "obsidian-prism-theme@@pt-font-slashed-zero": false,
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-green-lt",
-  "sanctum@@color-accent-rgb-l": "92, 153, 124"
+  "sanctum@@color-accent-rgb-l": "92, 153, 124",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-typewriter@@shrink-formatting": true
 }

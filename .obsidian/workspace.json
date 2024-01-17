@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "461d104ebdeca07b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Branding/The Archives/Publish.css (The Archives).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a7e3a3d10cfb28c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Quadruped Robot/Quadruped To Do Master List.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,12 +25,11 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "00 Branding/The Brain/The Brain Header.png"
+                "file": "00 Branding/Third Brain/The Brain (Old)/The Brain Header.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Quadruped Robot/Quadruped To Do Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Quadruped Robot/Quadruped To Do Master List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Quadruped Robot/Quadruped To Do Master List.md"
               }
             }
           }
@@ -172,51 +159,51 @@
   },
   "active": "a7e3a3d10cfb28c0",
   "lastOpenFiles": [
-    "00 Branding/The Archives Title.png",
-    "00 Branding/The Archives Header.png",
-    "About.md",
-    "00 Branding/The Archives/Publish.css (The Archives).md",
-    "00 Branding/The Brain/Publish.css (The Brain).md",
-    "00 Branding/The Archives/The Archives Header With Background.png",
-    "00 Branding/The Archives/The Archives Title.png",
-    "Home.md",
     "Quadruped Robot/Project Proposal.md",
-    "Planr/Planr Overview.md",
-    "Planr/Planr Branding.md",
     "Quadruped Robot/ME 377K Form.pdf",
+    "Quadruped Robot/Quadruped To Do Master List.md",
+    "Planr/Planr Overview.md",
     "Planr/Planr Updates.md",
+    "Quadruped Robot/00 Proposal/ME 377K Form.pdf",
+    "Quadruped Robot/00 Proposal/Project Proposal.md",
+    "Quadruped Robot/Quadruped Updates.md",
+    "Quadruped Robot/00 Proposal",
+    "Quadruped Robot/01 Initiation/01 Research.md",
+    "Quadruped Robot/01 Initiation/Pictures/SpotMicroAI_complete_1.jpg",
+    "Quadruped Robot/01 Initiation/Pictures/Quadruped Sketch 1.jpg",
+    "Quadruped Robot/00 Proposal/Project Proposal.md",
+    "Quadruped Robot/01 Initiation/Pictures",
+    "Quadruped Robot/Pictures",
+    "Home.md",
+    "Quadruped Robot/01 Initiation",
+    "00 Branding/Third Brain/Third Brain Header.png",
+    "00 Branding/Third Brain/Third Brain Header - Cropped.png",
+    "00 Branding/Third Brain/Third Brain Title.png",
+    "00 Branding/Third Brain/Third Brain Title - Cropped.png",
+    "00 Branding/Third Brain/Third Brain Logo.png",
+    "00 Branding/Third Brain/Favicons/android-chrome-192x192.png",
+    "00 Branding/Third Brain/Favicons/site.webmanifest",
+    "00 Branding/Third Brain/Favicons/favicon-32x32.png",
+    "00 Branding/Third Brain/Favicons/favicon-16x16.png",
+    "00 Branding/Third Brain/Favicons/favicon 1.ico",
+    "Projects Roadmap.md",
+    "00 Branding/Third Brain/Publish.css (The Brain).md",
+    "00 Branding/Third Brain/The Brain (Old)",
+    "About.md",
+    "desktop.ini",
+    "Thoughts/Standard Software.md",
+    "00 Secret/List of Expenses.md",
+    "Notes/Web Development/Creating An App With Electron.md",
+    "Notes/Web Development/Standard Applications.md",
+    "00 Branding/The Archives/Publish.css (The Archives).md",
+    "Thoughts/Ideas List.md",
+    "Thoughts/Files Over Apps.md",
+    "Planr/Planr Branding.md",
     "Planr/Functions/Function Logic.md",
     "Planr/Functions/addNewTaskContainer.js.md",
     "Planr/Functions/addNewTask.js.md",
-    "Planr/Functions/Update Pictures/master-flowchart-12-24-23.jpg",
-    "Planr/Branding/Planr Small Logo.png",
-    "Planr/Branding/Planr Full Logo.png",
-    "Notes/Web Development/Creating An App With Electron.md",
     "Notes/Materials Selection/Titanium.md",
     "Notes/Materials Selection/Steel.md",
-    "Notes/Materials Selection/PLA vs. PETG.md",
-    "Notes/Materials Selection/Aluminum.md",
-    "Thoughts/Standard Applications.md",
-    "Thoughts/Ideas List.md",
-    "Thoughts/Files Over Apps.md",
-    "00 Branding/The Archives/The Archives Header.png",
-    "00 Branding/The Brain/The Brain Header.png",
-    "00 Branding/The Archives/The Archives Header.png",
-    "00 Branding/The Brain/Favicons/android-chrome-192x192.png",
-    "00 Branding/The Brain/Favicons/favicon.ico",
-    "publish.css",
-    "theme.css",
-    "publish-archives-backup.css",
-    "00 Branding/The Brain/Favicons",
-    "00 Branding/The Brain",
-    "00 Branding/The Archives",
-    "Quadruped Robot",
-    "Projects Roadmap.md",
-    "Bronco",
-    "TaleForge/TaleForge Purpose.md",
-    "Untitled.canvas",
-    "General/One At A Time.md",
-    "Planr/Functions/HTMLImport.js.md",
-    "Planr/Functions/deleteTask.js.md"
+    "Untitled.canvas"
   ]
 }

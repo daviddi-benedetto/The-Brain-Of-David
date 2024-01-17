@@ -1,6 +1,3 @@
-
-
-
 # Independent Project Proposal
 ### Development of Educational Build Kit: Robot Quadruped
  Student: David Di-Benedetto
